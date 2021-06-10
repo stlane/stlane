@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome!
+
+I'm Stephanie Lane, a Senior Data Scientist at Netflix. This is my personal Github, where you'll find repos for open source R packages I've authored in the past. My passion is methods development and dissemination for social, behavioral, and health data. Reach me on LinkedIn or Twitter!
 
 <!--
 **stlane/stlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
